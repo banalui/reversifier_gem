@@ -1,5 +1,5 @@
 
-module Streverser
+module Reversifier
 	class Word
   		def self.reversify
     		self.reverse
