@@ -1,4 +1,5 @@
 require "reversifier/version"
+require "reversifier/word"
 
 module Reversifier
   def self.hello
